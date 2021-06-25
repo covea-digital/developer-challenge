@@ -1,0 +1,80 @@
+{
+    "ratings": {
+        "dog": [
+            {
+                "group": 1,
+                "rating": 0.25
+            },
+            {
+                "group": 2,
+                "rating": 0.25
+            },
+            {
+                "group": 3,
+                "rating": 0.5
+            },
+            {
+                "group": 4,
+                "rating": 1.5
+            },
+            {
+                "group": 5,
+                "rating": 2
+            },
+            {
+                "group": 6,
+                "rating": 2.5
+            },
+            {
+                "group": 7,
+                "rating": 4
+            },
+            {
+                "group": 8,
+                "rating": 6
+            },
+            {
+                "group": 9,
+                "rating": 7
+            }
+        ],
+        "cat": [
+            {
+                "group": 1,
+                "rating": 0.25
+            },
+            {
+                "group": 2,
+                "rating": 0.5
+            },
+            {
+                "group": 3,
+                "rating": 0.5
+            },
+            {
+                "group": 4,
+                "rating": 0.75
+            },
+            {
+                "group": 5,
+                "rating": 1
+            },
+            {
+                "group": 6,
+                "rating": 2
+            },
+            {
+                "group": 7,
+                "rating": 3
+            },
+            {
+                "group": 8,
+                "rating": 4
+            },
+            {
+                "group": 9,
+                "rating": 5
+            }
+        ]
+    }
+}

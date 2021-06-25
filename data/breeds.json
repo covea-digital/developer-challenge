@@ -1,0 +1,76 @@
+{
+    "breeds": {
+        "dog": [
+            {
+                "breed": "Pomeranian",
+                "group": 1
+            },
+            {
+                "breed": "Papillon",
+                "group": 2
+            },
+            {
+                "breed": "Miniature Poodle",
+                "group": 5
+            },
+            {
+                "breed": "Canadian Eskimo Dog",
+                "group": 3
+            },
+            {
+                "breed": "Australian Silky Terrier",
+                "group": 6
+            },
+            {
+                "breed": "Miniature Pinscher",
+                "group": 7
+            },
+            {
+                "breed": "Longhaired Miniature Dachshund",
+                "group": 3
+            },
+            {
+                "breed": "American Pit Bull Terrier",
+                "group": -1
+            },
+            {
+                "breed": "Pinscher German",
+                "group": 2
+            },
+            {
+                "breed": "Majestic Tree Hound",
+                "group": 1
+            }
+        ],
+        "cat": [
+            {
+                "breed": "Abyssinian",
+                "group": 2
+            },
+            {
+                "breed": "Canadian Hairless",
+                "group": 1
+            },
+            {
+                "breed": "Ragamuffin",
+                "group": 2
+            },
+            {
+                "breed": "Toyger",
+                "group": 5
+            },
+            {
+                "breed": "Burmese",
+                "group": 5
+            },
+            {
+                "breed": "Domestic Longhaired",
+                "group": 6
+            },
+            {
+                "breed": "Turkish Van",
+                "group": 7
+            }
+        ]
+    }
+}

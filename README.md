@@ -10,7 +10,9 @@ Fork this repo and clone locally, initialise the project as you normally would, 
 When completed, update this README with instructions on how to run and test your code, push the changes to your own fork, and send a link to us so we can take a look!
 
 ## The Brief
-Below is a product brief for a simple Pet Insurance API that allows customers to get insurance quotes for their pets. You must build as much of the application as you can within the allotted time. Please focus on test coverage.
+Below is a product brief for a simple Pet Insurance API that allows customers to get insurance quotes for their pets. You must build as much of the application as you can within the allotted time.
+
+This challenge is to gauge how you tackle a brief that doesn't necessarily contain all the information you may require. This should demonstrate your analytical thinking and awareness of standards and best practices. Please focus on test coverage.
 
 ## User Story
 As a customer I would like to be able to get an insurance quote by providing some details about my pet(s).

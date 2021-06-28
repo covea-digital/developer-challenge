@@ -21,7 +21,7 @@ If my pet is not ‘valid’ it is uninsurable.
 
 ### Diagram:
 
-![a0567f9c-ad48-4314-b77b-2d939461691d](https://user-images.githubusercontent.com/1726083/123427367-71845d00-d5bc-11eb-9185-be588ca18d57.png)
+![SoWkIImgAStDuU8g038oapCB4lDA59npCbFpIb240b9BFFEAIuiIyv9J7GCykL8IInAJ4ejJ5LoSkBWWwXLqxJ2KeV51Ie0Qq4LjT7L1mb1ZG3nqSxWSKlDIGEu40000](https://user-images.githubusercontent.com/1726083/123607311-aa5b4680-d7f5-11eb-9c8a-f36b2e773e30.png)
 
 
 ### Example Request:

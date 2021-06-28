@@ -5,7 +5,7 @@
 </sup>
 
 ## Getting Started
-Fork this repo and clone locally, initialise the project as you normally would, and build the application according to the brief below.
+Fork this repo and clone locally. Initialise the project as you normally would, and build the application according to the brief below.
 
 When completed, update this README with instructions on how to run and test your code, push the changes to your own fork, and send a link to us so we can take a look!
 
@@ -19,7 +19,7 @@ As a customer I would like to be able to get an insurance quote by providing som
 
 In the response I should get a monthly premium quote for each pet I enquire about, including a total.
 
-If my pet is not ‘valid’ it is uninsurable.
+Some pets may be uninsurable so I will need to notified if this is the case.
 
 ### Diagram:
 

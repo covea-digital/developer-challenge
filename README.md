@@ -1,7 +1,7 @@
 # Covéa Developer Technical Challenge
 
 <sup>
-1 hour // Node.js, React, C#
+1 hour // Optional: Node.js, React, C#
 </sup>
 
 ## Getting Started

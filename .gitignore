@@ -104,5 +104,5 @@ dist
 .tern-port
 
 # C# obj, bin etc
-obj/
-bin/
+obj
+bin

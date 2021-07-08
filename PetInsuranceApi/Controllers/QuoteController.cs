@@ -11,6 +11,8 @@ namespace PetInsuranceApi.Controllers
     [Route("[controller]")]
     public class QuoteController : ControllerBase
     {
+        private readonly ILogger<QuoteController> _logger;
+
         public QuoteController(ILogger<QuoteController> logger)
         {
             _logger = logger;
@@ -19,7 +21,7 @@ namespace PetInsuranceApi.Controllers
         [HttpPost]
         public Quotes Post(IEnumerable<Risk> risks)
         {
-
+            return null;
         }
     }
 }

@@ -1,17 +1,18 @@
 using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace PetInsuranceApi
 {
     public class Quotes
     {
-        IEnumerable<Quote> Quotes { get; set; }
+        public IEnumerable<Quote> AllQuotes { get; set; }
 
         public double TotalPremiums 
         {
             get
             {
-                return Quotes?.Select(x => x.Premium).Sum();
+                return AllQuotes == null ? 0.0 : AllQuotes.Select(x => x.Premium).Sum();
             }
         }
     }

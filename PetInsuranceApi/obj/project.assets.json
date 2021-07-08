@@ -193,19 +193,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/joshuawhittle/.nuget/packages/": {}
+    "C:\\Users\\Josh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joshuawhittle/src/developer-challenge/PetInsuranceApi/PetInsuranceApi.csproj",
+      "projectUniqueName": "C:\\Users\\Josh\\src\\developer-challenge\\PetInsuranceApi\\PetInsuranceApi.csproj",
       "projectName": "PetInsuranceApi",
-      "projectPath": "/Users/joshuawhittle/src/developer-challenge/PetInsuranceApi/PetInsuranceApi.csproj",
-      "packagesPath": "/Users/joshuawhittle/.nuget/packages/",
-      "outputPath": "/Users/joshuawhittle/src/developer-challenge/PetInsuranceApi/obj/",
+      "projectPath": "C:\\Users\\Josh\\src\\developer-challenge\\PetInsuranceApi\\PetInsuranceApi.csproj",
+      "packagesPath": "C:\\Users\\Josh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Josh\\src\\developer-challenge\\PetInsuranceApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/joshuawhittle/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Josh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -252,7 +252,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

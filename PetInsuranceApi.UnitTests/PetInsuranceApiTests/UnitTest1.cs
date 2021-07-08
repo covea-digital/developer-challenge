@@ -1,13 +1,17 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using PetInsuranceApi;
+using System.Linq;
 
 namespace PetInsuranceApiTests
 {
     [TestClass]
-    public class UnitTest1
+    public class QuotesTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TotalPremiums_PremiumsPresent_ShouldBeTotalOfPremiums()
         {
+            var quotes = new Quotes();
+            var quoteList = new List<Quote>();
         }
     }
 }

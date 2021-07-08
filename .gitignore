@@ -105,4 +105,5 @@ dist
 
 # C# obj, bin etc
 obj
+obj/
 bin
